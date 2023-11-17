@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import argparse
 import ipaddress
 import scapy.all as scapy
